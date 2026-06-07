@@ -1,0 +1,5 @@
+proxmox_inventory.txt
+network_diagnosis.md
+scan_results/
+__pycache__/
+*.pyc
